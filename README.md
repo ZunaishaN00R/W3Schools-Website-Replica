@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/e99071b5-be52-4c73-aca5-27480aa70809
+
+
 # W3Schools Website Replica
 
 This repository contains the HTML and CSS code to replicate the W3Schools website, offering online tutorials for various web development technologies.
